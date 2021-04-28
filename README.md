@@ -1154,6 +1154,7 @@ _See also [Wikis](#wikis)_
 - [Turtl](https://turtl.it/) - Totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPL-3.0` `CommonLisp`
 - [Wreeto](https://wreeto.com) - Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. ([Source Code](https://github.com/chrisvel/wreeto_official)) `AGPL-3.0` `Ruby`
 - [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code](https://github.com/josephernest/writing)) `MIT` `Javascript`
+- [Notea](https://cinwell.com/notea/) - Self hosted note taking app stored on S3 ([Source Code](https://github.com/QingWei-Li/notea)) `MIT` `Nodejs`
 
 ## Office Suites
 
